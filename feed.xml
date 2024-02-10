@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ma french pool</title>
+    <link href="https://mafrenchpool.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://mafrenchpool.github.io/gh-pages" />
+    <updated>2024-01-28T20:02:52+01:00</updated>
+    <author>
+        <name>ma french pool</name>
+    </author>
+    <id>https://mafrenchpool.github.io/gh-pages</id>
+
+    <entry>
+        <title>#post 4</title>
+        <author>
+            <name>ma french pool</name>
+        </author>
+        <link href="https://mafrenchpool.github.io/gh-pages/post-4.html"/>
+        <id>https://mafrenchpool.github.io/gh-pages/post-4.html</id>
+        <media:content url="https://mafrenchpool.github.io/gh-pages/media/posts/4/308027177_175331551736624_7403295341958086322_n.jpg" medium="image" />
+            <category term="Services"/>
+            <category term="Réalisations"/>
+
+        <updated>2024-01-28T20:02:48+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>#post3</title>
+        <author>
+            <name>ma french pool</name>
+        </author>
+        <link href="https://mafrenchpool.github.io/gh-pages/post4.html"/>
+        <id>https://mafrenchpool.github.io/gh-pages/post4.html</id>
+        <media:content url="https://mafrenchpool.github.io/gh-pages/media/posts/3/277757757_133328572600675_2534191726573360578_n.jpg" medium="image" />
+
+        <updated>2024-01-28T16:17:36+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>post #2</title>
+        <author>
+            <name>ma french pool</name>
+        </author>
+        <link href="https://mafrenchpool.github.io/gh-pages/post-2.html"/>
+        <id>https://mafrenchpool.github.io/gh-pages/post-2.html</id>
+        <media:content url="https://mafrenchpool.github.io/gh-pages/media/posts/2/274477637_121684483765084_68656136415153486_n.jpg" medium="image" />
+
+        <updated>2024-01-28T20:02:52+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>post #1</title>
+        <author>
+            <name>ma french pool</name>
+        </author>
+        <link href="https://mafrenchpool.github.io/gh-pages/post-1.html"/>
+        <id>https://mafrenchpool.github.io/gh-pages/post-1.html</id>
+        <media:content url="https://mafrenchpool.github.io/gh-pages/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" medium="image" />
+
+        <updated>2024-01-28T16:16:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mafrenchpool.github.io/gh-pages/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" alt="" />
+                    blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mafrenchpool.github.io/gh-pages/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" class="type:primaryImage" alt="" /></p>
+                <p>blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
